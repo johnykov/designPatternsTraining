@@ -1,4 +1,4 @@
-package pl.jan;
+package pl.jan.Roz03Dekorator;
 
 public class Czekolada extends SkladnikDekorator {
   Napoj napoj;
